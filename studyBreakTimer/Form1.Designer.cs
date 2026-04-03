@@ -125,7 +125,7 @@
             Cursor = Cursors.Cross;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Study Break Timer v1.0.0";
+            Text = "Study Break Timer v1.0.1";
             ResumeLayout(false);
             PerformLayout();
         }
