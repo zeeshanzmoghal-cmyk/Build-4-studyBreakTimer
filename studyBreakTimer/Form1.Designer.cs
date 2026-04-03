@@ -1,4 +1,4 @@
-﻿namespace studyBreakTimer
+namespace studyBreakTimer
 {
     partial class Form1
     {
